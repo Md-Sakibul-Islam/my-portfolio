@@ -1,0 +1,13 @@
+.skill__container{
+    color: whitesmoke;
+    margin-top: 100px;
+    
+}
+
+.progress__bar{
+    background-color: whitesmoke;
+    height: 5px;
+}
+.progress__color{
+    background-color:#6e57e0 ;
+}

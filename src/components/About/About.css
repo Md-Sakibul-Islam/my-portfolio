@@ -1,0 +1,28 @@
+.about-container {
+  font-family: "Nunito Sans", sans-serif;
+  color: #2a2830;
+  margin-top: 90px;
+}
+.about__info {
+  margin-top: 10%;
+  padding: 2%;
+  text-align: justify;
+  line-height: 35px;
+  color: whitesmoke;
+}
+.download-btn {
+  background-color: hsl(250deg 69% 61%);
+ color: whitesmoke;
+ text-decoration: none;
+ padding: 8px;
+ border: 0;
+ border-radius: 10px;
+}
+.download-btn:hover{
+  color: whitesmoke;
+}
+.icon__tag {
+  font-size: 20px;
+  color: whitesmoke;
+  padding: 6px;
+}
