@@ -46,7 +46,7 @@ const Projects = () => {
             </Carousel>
           </Col>
           <Col sm={12} md={6} lg={6}>
-            <div data-aos="zoom-in" className="project__info">
+            <div className="project__info">
               <h3>Infinity Car</h3>
               <h4>A MERN Stack Project</h4>
               <h3>Overview</h3>
